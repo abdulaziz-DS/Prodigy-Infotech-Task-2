@@ -32,9 +32,7 @@ I identified patterns in the data by analyzing the distributions and relationshi
 ## Insights Gained
 
 - **Age Distribution**: The age distribution showed a positive skew, indicating that most passengers were in their 20s and 30s.
-
 - **Survival by Sex**: The survival rate was higher for males than females, with a significant difference in survival rates between the two sexes.
-
 - **Embarked Locations**: The majority of passengers embarked from Southampton, with fewer from Cherbourg and Queenstown.
 
 ## Conclusion
