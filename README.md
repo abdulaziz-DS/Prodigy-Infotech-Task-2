@@ -1,4 +1,4 @@
-# Prodigy-Infotech-Task-2
+# Prodigy Infotech Task 2: Exploratory data analysis (EDA) on the Titanic dataset
 
 As a Data Science Intern at Prodigy InfoTech, I was tasked with performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle.
 
